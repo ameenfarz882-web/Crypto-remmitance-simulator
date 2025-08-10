@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/env.d.ts","./src/main.tsx","./src/components/ConverterForm.tsx","./src/components/ResultCard.tsx","./src/components/ThemeToggle.tsx","./src/services/api.ts","./src/types/index.ts"],"version":"5.9.2"}
